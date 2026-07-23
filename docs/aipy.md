@@ -13,6 +13,7 @@ AiPy natively supports OpenAI-compatible APIs and can directly connect to DeepSe
 1. In the AiPy main interface, click the **Settings** icon in the bottom-left corner.
 2. In the navigation panel, open **Models** and click **Add**.
 3. Select the model provider type **DeepSeek Official** — the Base URL will be filled in automatically. Then manually fill in the following:
+   
 | Configuration Item | Value |
 |--------------------|-------|
 | **Name** | `DeepSeek` |
