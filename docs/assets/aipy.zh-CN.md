@@ -20,6 +20,7 @@ AiPy 原生支持 OpenAI 兼容接口，可直接接入 DeepSeek 模型。
 | **模型** | `deepseek-v4-pro` |
 4. 保存配置，DeepSeek 即可在 AiPy 中使用，也可点击设为默认，将DeepSeek模型设置为默认使用模型。
 <img width="1276" height="811" alt="image" src="https://github.com/user-attachments/assets/84a3da50-b321-488a-a4d3-4a78e66a29bb" />
+
 #### 3. 开始使用
 配置完成后，在 AiPy 主界面的对话框中：
 1. 用大白话描述你的需求，右侧模型处选择DeepSeek模型，（如果上一步骤中已经设为默认，则默认为DeepSeek模型）例如：
