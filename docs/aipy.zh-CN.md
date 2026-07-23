@@ -30,7 +30,7 @@ AiPy 原生支持 OpenAI 兼容接口，可直接接入 DeepSeek 模型。
    - "帮我把这 100 个文件按日期重命名"
    - "帮我写一份年终总结 PPT"
 2. AiPy 会自动组建专家团队，分步骤完成任务。
-<img width="1417" height="1022" alt="image" src="https://github.com/user-attachments/assets/e618e0d8-e4ab-43b5-8235-7db9dfe8a190" />
+<img width="1123" height="728" alt="image" src="https://github.com/user-attachments/assets/536ce5ad-953c-454d-93f2-ee7d6b0fa29e" />
 
 #### 4. 进阶用法
 完成 DeepSeek 配置后，你可以在 AiPy 的以下场景中充分发挥其能力：
